@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/iguajarp/exercises_vanitas/issues"
   },
-  "homepage": "https://github.com/iguajarp/exercises_vanitas#readme"
+  "homepage": "https://github.com/iguajarp/exercises_vanitas#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
