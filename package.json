@@ -1,0 +1,20 @@
+{
+  "name": "exercises_vanitas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hola\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://iguajarp@github.com/iguajarp/exercises_vanitas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iguajarp/exercises_vanitas/issues"
+  },
+  "homepage": "https://github.com/iguajarp/exercises_vanitas#readme"
+}
