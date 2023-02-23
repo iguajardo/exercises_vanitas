@@ -1,3 +1,7 @@
-const express = require('express');
+const isArray = (input) => {
 
-const app = express();
+}
+
+module.exports = {
+  isArray
+}
