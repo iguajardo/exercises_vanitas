@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Hola\""
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,7 @@
     "url": "https://github.com/iguajarp/exercises_vanitas/issues"
   },
   "homepage": "https://github.com/iguajarp/exercises_vanitas#readme",
-  "dependencies": {}
+  "dependencies": {
+    "jest": "^29.4.3"
+  }
 }
